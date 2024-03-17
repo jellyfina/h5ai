@@ -6,6 +6,7 @@
 #### 🚩 modern HTTP web server index
 - h5ai 是用于 HTTP Web 服务器的现代文件索引器，专注于您的文件。目录以一种吸引人的方式显示，浏览它们可以通过不同的视图、面包屑和树概述来增强。最初，h5ai 是 HTML5 Apache Index 的首字母缩写，但现在它也支持其他 Web 服务器
 - 需要 PHP 7.0+，并且可以与 Apache httpd、lighttpd 和 nginx 配合使用。使用最新版本的基于 Chromium 的浏览器（Firefox、Safari 和 Edge）提供最佳用户体验，但为较旧的浏览器或禁用 JavaScript 提供了静态回退
+
 ![h5ai](image/h5ai.png)
 
 ##### 🚩 拉取镜像:
