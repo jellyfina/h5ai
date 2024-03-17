@@ -19,5 +19,5 @@ $ docker exec -it h5ai sh
 ```
 ##### 🚩 部署h5ai:
 ```sh
-sh -c "$(curl -kfsSl (https://raw.650070.xyz/jellyfina/h5ai/main//h5ai.sh)"
+sh -c "$(curl -kfsSl https://raw.650070.xyz/jellyfina/h5ai/main//h5ai.sh)"
 ```
