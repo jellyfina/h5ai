@@ -11,7 +11,7 @@ echo
 echo -e "\033[32mH5ai下载完成,正在解压文件\033[0m"
 unzip -q h5ai.zip
 echo
-rm -rf h5ai.zip
+rm -rf h5ai.zip index.html &>/dev/null
 echo -e "\033[32m开始设置文件夹权限。\033[0m"
 chmod -R 777 /www/_h5ai/private/cache/
 
